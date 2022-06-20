@@ -10,7 +10,7 @@ The objective of our experiments was to evaluate the impact of English translati
 Then, axis2.1 is done with a NER step and a normalization step with the same algorithms as before. 
 axis2.2 uses the MedCAT algorithm which performs both NER and normalization at the same time. 
 
-### Axes/axis1 to axis2.2 include overall branch, whereas each folder : NER, normalization, translation contains the intermediate steps 
+Axex folder includes all of the free branch with notebook containing overall steps and accuracy computation, whereas each folder : NER, normalization, translation contains the intermediate steps 
     
 
 ![Overall_diagram(1)](https://user-images.githubusercontent.com/81175825/174573508-fded2955-5282-42dc-83b0-3d852f240085.png)
