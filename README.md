@@ -1,5 +1,5 @@
 # biomed_translation
-This github linked to our work evlauating the impact of English translation on biomedical information extraction from French medical notes.
+This github is linked to our work evlauating the impact of English translation on biomedical information extraction from French medical notes.
 
 The objective of our experiments was to evaluate the impact of English translation on biomedical named-entity recognition and normalization. The work is divided in three axes : 
   - a native French axis (axis1 in Figure below)  : developped in Axes/axis1. 
